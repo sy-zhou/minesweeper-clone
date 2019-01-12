@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cell()
+comment1.params=num
+comment1.target=Cell(int)
+comment2.params=
+comment2.target=int\ getStatus()
+comment2.text=\r\n\ Returns\ the\ number\ of\ mines\ surrounding\ this\ Cell.\r\n\ @return\ the\ number\ of\ mines\ surrounding\ this\ Cell.\r\n
+comment3.params=
+comment3.target=boolean\ isUncovered()
+comment3.text=\r\n\ Returns\ whether\ this\ Cell\ is\ uncovered.\r\n\ @return\ whether\ this\ Cell\ is\ uncovered.\r\n
+comment4.params=
+comment4.target=boolean\ isMine()
+comment4.text=\r\n\ Returns\ whether\ this\ Cell\ is\ a\ mine.\r\n\ @return\ whether\ this\ Cell\ is\ a\ mine.\r\n
+comment5.params=
+comment5.target=boolean\ isSafe()
+comment5.text=\r\n\ Returns\ whether\ there\ are\ any\ mines\ surrounding\ this\ Cell.\r\n\ @return\ whether\ there\ are\ any\ mines\ surrounding\ this\ Cell.\r\n
+comment6.params=
+comment6.target=void\ addToStatus()
+comment7.params=newStatus
+comment7.target=void\ setStatus(int)
+comment8.params=
+comment8.target=void\ uncover()
+numComments=9

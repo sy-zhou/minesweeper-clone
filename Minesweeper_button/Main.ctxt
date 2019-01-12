@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=argument
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Begins\ the\ minesweeper\ game.\r\n\r\n\ @param\ argument\ not\ used\r\n
+comment1.params=
+comment1.target=void\ initComponents()
+comment1.text=\r\n\ Initializes\ all\ GUI\ components\ and\ formats\ them.\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ startGame()
+numComments=4
